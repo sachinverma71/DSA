@@ -51,7 +51,7 @@ class Solution {
             r++;
         }
 
-        if (ans[0] == -1) {
+        if(ans[0] == -1) {
             return "";
         }
 
